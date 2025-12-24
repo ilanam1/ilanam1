@@ -21,3 +21,10 @@ Repository: https://github.com/BS-PM-2025/BS-PM-2025-TEAM10.git
 **Tech:** Python, Scikit-learn, NLP 
 
 Repository: https://github.com/ilanam1/projectAI.git
+
+
+### Library-Management-System
+**Library Services Management System**
+**Tech:** C#, MVC, SQL Server
+
+Repository:https://github.com/ilanam1/Library-Management-System.git
