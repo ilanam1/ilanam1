@@ -8,8 +8,15 @@
 
 ## 🚀 Selected Projects
 
+### ⚙️ CI/CD Learning Platform
 **Interactive Learning Platform**
 
 **Tech:** Python, Django, Jenkins, Jira
 
-https://github.com/BS-PM-2025/BS-PM-2025-TEAM10.git
+Repository: https://github.com/BS-PM-2025/BS-PM-2025-TEAM10.git
+
+
+### 🤖 Fake Review Detector
+**ML system for detecting fake text reviews**  
+**Tech:** Python, Scikit-learn, NLP 
+Repository: https://github.com/ilanam1/projectAI.git
