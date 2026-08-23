@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Ilan Amuev
 
 🎓 Software Engineering Graduate
+
 🤖 AI & Machine Learning | Full-Stack | Mobile Development
+
 📍 Israel
 
 ---
@@ -105,7 +107,7 @@ Certificate of Competency
 
 ## 📫 Let's Connect
 
-💼 LinkedIn: YOUR_LINKEDIN_URL
+💼 LinkedIn: https://www.linkedin.com/in/ilan-amuev-72553b314/
 
 📧 Email: [amuev213@gmail.com](mailto:amuev213@gmail.com)
 
